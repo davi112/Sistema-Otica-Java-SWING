@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Projeto-Otica-Davi_I2A/src"/>
+	<classpathentry kind="lib" path="Projeto-Otica-Davi_I2A/lib/beansbinding-1.2.1.jar"/>
+	<classpathentry kind="lib" path="Projeto-Otica-Davi_I2A/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="output" path="Projeto-Otica-Davi_I2A/bin"/>
+</classpath>
